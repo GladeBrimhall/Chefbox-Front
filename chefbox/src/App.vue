@@ -1,10 +1,12 @@
 <template>
   <div id="app">
     <div id="nav">
+      <img src="./assets/images/HouseA_logo.png">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
+    <footer id="footer">Website by House Atreides 2020</footer>
   </div>
 </template>
 
