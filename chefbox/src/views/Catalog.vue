@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<template>
-    <h1>Catalog</h1>
-    
-</template>
-=======
 <!-- THIS IS WORK IN PROGRESS -->
 <!-- ------------------------ -->
 
@@ -90,4 +84,3 @@ img {
   border: 1px solid gray;
 }
 </style>
->>>>>>> upstream/master
