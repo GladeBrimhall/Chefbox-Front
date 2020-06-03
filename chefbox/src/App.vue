@@ -3,7 +3,8 @@
     <div id="nav">
       <img src="./assets/images/HouseA_logo.png"><br>
       <router-link to="/">Home</router-link> |
-      <router-link to="/recipes">Recipes</router-link>
+      <router-link to="/recipes">Recipes</router-link> |
+      <router-link to="/catalog">Catalog</router-link>
     </div>
     <router-view />
     <footer id="footer">Website by House Atreides 2020</footer>
